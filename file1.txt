@@ -1,4 +1,4 @@
-New Line added from Github.com
-File 1
+File 1 edited on my local machine!
 Line 2
 Line 3
+done editing
